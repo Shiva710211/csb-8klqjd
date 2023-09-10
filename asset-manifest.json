@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://shiva710211.github.io/csb-8klqjd/static/js/main.4ab11319.chunk.js",
+    "main.js.map": "https://shiva710211.github.io/csb-8klqjd/static/js/main.4ab11319.chunk.js.map",
+    "runtime-main.js": "https://shiva710211.github.io/csb-8klqjd/static/js/runtime-main.c0fee6e3.js",
+    "runtime-main.js.map": "https://shiva710211.github.io/csb-8klqjd/static/js/runtime-main.c0fee6e3.js.map",
+    "static/js/2.8b594405.chunk.js": "https://shiva710211.github.io/csb-8klqjd/static/js/2.8b594405.chunk.js",
+    "static/js/2.8b594405.chunk.js.map": "https://shiva710211.github.io/csb-8klqjd/static/js/2.8b594405.chunk.js.map",
+    "index.html": "https://shiva710211.github.io/csb-8klqjd/index.html",
+    "precache-manifest.57c580cf41db9ce64114b96421f2f04d.js": "https://shiva710211.github.io/csb-8klqjd/precache-manifest.57c580cf41db9ce64114b96421f2f04d.js",
+    "service-worker.js": "https://shiva710211.github.io/csb-8klqjd/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0fee6e3.js",
+    "static/js/2.8b594405.chunk.js",
+    "static/js/main.4ab11319.chunk.js"
+  ]
+}
